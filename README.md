@@ -4,6 +4,8 @@ Veron Yoan et Bouslih Adil - Groupe 3
 #Idée principale : 
 Créer un robot laveur de table
 
+#Structure : regarder le fichier plan.
+
 #Fonctionnement :
 
 Etape 1) Un robot qui parcours toute la table, sans tomber.
