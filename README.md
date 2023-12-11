@@ -23,3 +23,4 @@ Etape final, le robot fait un premier tour pour balayer la table et repérer le 
 2 brosses
 1 reservoir
 1 socle
+Cotons
