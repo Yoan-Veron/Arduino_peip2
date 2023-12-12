@@ -1,1 +1,8 @@
 
+Dans un premiers l'objectif à été de souder les fils aux moteurs afin de rendre ces derniers opérationnels, 
+et ainsi pouvoir tester leurs fonctionnement à l'aide d'un code arduino qui à été réalisé au préalable et qui permet simplement de delivrer une puissance au moteur 
+(le but étaant de vérifier qu'il n'y ait pas de faux-contact, et de vérifier que le moteur fonctionne correctement). 
+Ensuite nous avons travaillé sur la conceptualisation du chassis de la voiture en prennant en compte toutes les dimensions nécessaires,
+pour avoir le montage le plus propre possible d'un point de vue visuel, en ayant pris en compte bien sur, l'emplacement de chaque composants et objets,
+qui vont être posés/assemblés sur le chassis.
+Enfin, nous avons fait valider notre chassis, et nous devrions le recevoir lors de la prochaine séance. 
