@@ -1,0 +1,13 @@
+
+Yodilus
+
+Lors de cette séance, j’ai fixé tous les composants au chassis de la voiture 
+et agrandis le trou pour le tuyau de la nouvelle pompe. 
+Lorsque tous les problèmes étaient réglé, je me suis occupé essentiellement de la partie code, 
+du robot, pour dans un premier temps arriver à faire en sorte que le robot reste dans un carré assez petit. 
+Le plus gros problème a été de gérer la puissance des moteurs qui est assez élevée, 
+j’ai réussi à la contre balancer en jouant sur l’arrêt et le changement de sens des moteurs dans la partie code.
+Il y a une vidéo dans le dossier qui résume l’avancé finale à la fin de la séance.  
+
+Ce rapport est volontairement court puisque la majorité du travaille n'a pas été passionnant 
+(couper les vis, les limer, tester la pompe, visser, tests de la voiture etc...)
